@@ -1,4 +1,4 @@
-# supermall
+# git_supermall
 
 ## Project setup
 ```
